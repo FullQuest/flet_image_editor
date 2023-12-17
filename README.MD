@@ -8,14 +8,14 @@ Windows
 ```shell
 python -m venv venv
 venv\Scripts\activate
-python -m pip install -r /path/to/requirements.txt
+python -m pip install -r ./requirements.txt
 ```
 
 Linux
 ```sh
 python3 -m venv venv
 venv/bin/activate
-python3 -m pip install -r /path/to/requirements.txt
+python3 -m pip install -r ./requirements.txt
 ```
 
 ### 3. Run
